@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">I Dont Speak Flaco</string>
+    <string name="erroUSUARIO">ERROR AL PONER EL USUARIO</string>
+    <string name="errorContraseña">CONTRASEÑA ERRONEA</string>
+</resources>
